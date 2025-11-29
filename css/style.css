@@ -43,8 +43,8 @@ header a img {
 header nav ul {
     list-style: none;
     display: flex;
-    gap: 4rem;
-    font-size: 1rem;
+    gap: 2rem;
+    font-size: 0.8rem;
     align-items: center;
 }
 
@@ -99,7 +99,7 @@ main .titleAndP p {
 }
 
 .containerCarousel {
-    width: 60%;
+    width: 40%;
 }
 
 
@@ -119,6 +119,7 @@ main .titleAndP p {
     justify-content: center;
     align-items: center;
     text-align: center;
+    width: 70%;
 }
 
 /* .imagesLifeStyleChoices{
